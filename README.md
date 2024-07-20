@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey! 
+- I'm Kevin ✨
+- Highschool Student
+- Currently learning backend development
+- And looking for new projects + collaborations
 
 <!--
 **onKTun/onKTun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
