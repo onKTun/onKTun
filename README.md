@@ -1,4 +1,4 @@
-## Hey! 
+## Look here! 
 - I'm Kevin ✨
 - Highschool Student
 - Currently learning backend development
