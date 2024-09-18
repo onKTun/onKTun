@@ -2,27 +2,15 @@
 
 # Hey there, I'm Kevin! 👋
 
-
-## 🚀 About Me
 I'm a highschool student planning on majoring in computer science!
-
-I'm always looking to collaborate!
 
 ## 🤔 Details
 
-👩‍💻 I'm currently working on... 
+👩‍💻 I'm currently working on a financial education website (check out my pinned)
 
-A financial education website (check out my pinned)
+🧠 I'm currently learning Backend...
 
-🧠 I'm currently learning...
-
-Backend...
-
-😄 Pronouns...
-
-He/Him
-
-
+😱 I'm always looking to collaborate!
 
 ## 🛠 Skills
 Unity, C#, JavaScript, Next.js, SQL, Python
