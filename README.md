@@ -2,7 +2,7 @@
 
 # Hey there, I'm Kevin! 👋
 
-I'm a highschool student planning on majoring in computer science!
+I'm a student at UC Berkeley majoring in EECS.
 
 ## 🤔 Details
 
