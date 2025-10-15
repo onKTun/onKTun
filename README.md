@@ -4,14 +4,6 @@
 
 I'm a student at UC Berkeley majoring in EECS.
 
-## 🤔 Details
-
-👩‍💻 I'm currently working on a financial education website (check out my pinned)
-
-🧠 I'm currently learning Backend...
-
-😱 I'm always looking to collaborate!
-
 ## 🛠 Skills
 Unity, C#, JavaScript, Next.js, SQL, Python
 
